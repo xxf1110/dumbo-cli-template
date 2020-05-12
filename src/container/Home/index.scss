@@ -1,0 +1,11 @@
+.home{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  flex-direction: column; 
+  color: $color;
+  h1{
+    font-size: 20px;
+    color: #189eff;
+  }
+}
